@@ -15,7 +15,8 @@
 	overflow:hidden;
 	background-image: url("../images/bg.jpg");
 	background-size: 100%;
-	
+	background-repeat: no-repeat;
+	background-color: rgb(9, 9, 112);
 
 }
 
